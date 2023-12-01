@@ -1,0 +1,15 @@
+# txt files
+*.txt
+*.ipynb
+
+# folders
+2015/
+2016/
+2021/
+2022/
+2023/inputs/
+
+# test file
+test.py
+test.txt
+dayxx.py
