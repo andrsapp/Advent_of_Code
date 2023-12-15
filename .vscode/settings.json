@@ -13,10 +13,10 @@
         "--logging-format-interpolation=true",
         "--logging-fstring-interpolation=false"
     ],
-    "python.linting.flake8Enabled": true,
-    "python.linting.flake8Args": [
-        "--max-line-length=99",
-    ],
+    // "python.linting.flake8Enabled": true,
+    // "python.linting.flake8Args": [
+    //     "--max-line-length=99",
+    // ],
     // "editor.rulers": [
     //     {
     //         "color": "#add8e6",
